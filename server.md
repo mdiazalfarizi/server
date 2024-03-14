@@ -1,5 +1,5 @@
   1. M Diaz Alfarizi (09030582226035) sebagai client
-  2. Habib Hubaddilah (090305822260) sebagai server
+  2. Habib Hubaddilah (09030582226029) sebagai server
 
 langkah-langkah:
 
